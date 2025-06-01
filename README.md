@@ -1,4 +1,4 @@
-# 🦜🎤 Voice ReAct Agent
+# Voice ReAct Agent
 
 This is an implementation of a [ReAct](https://arxiv.org/abs/2210.03629)-style agent that uses OpenAI's new [Realtime API](https://platform.openai.com/docs/guides/realtime).
 
